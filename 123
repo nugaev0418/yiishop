@@ -1,0 +1,74 @@
+#Tokarlik mashinasining vazifasi?
++Yumoloq shakildagi detal xosil qilish.
+-To’rtburchak shakildagi detal xosil qilish.
+-Uchburchak shakildagi detal xosil qilish.
+
+#Tokarlik mashinasi necha o’qli bo’ladi?
+-1
++2
+-3
+
+#Tokarlik mashinasida foydaniladigan shpindilning turlari?
+-2-3 kulochokli.
++3-4  kulochokli.
+-6-1 kulochokli.
+
+#Lyunetlarnnng vazifasi ?
++Uzun detallarni ushlab turadi.
+-Kalta detallarni ushlab turadi.
+-Ko’nis detallarni ushlab turadi.
+
+#Pabedit kesgichlar nimadan tayyorlanadi ?
++Grafiddan
+-Misdan
+-Metaldan
+
+#Frezerniy  mashinasining vazifasi?
+-Qo’zg’almas detalga ishlov berish.
+-Xar-hil detal xosil qilish..
+-Xamma javob to’g’ri.
+
+#Frezerniy  mashinasining ishlov berish turlari?
++Vertikal gorizantal
+-shift garizantal
+-Yassi shift
+
+#Frezerniy mashinasi necha o’qli bo’ladi?
+-9
+-7
++3
+
+#Frezerniy mashinasining keskichlari qanday polatdan tayyorlanadi?
+-Uglerodli
++Legirlangan
+-Yumshoq
+
+#Barmoqli frezalar qanday foydaniladi?
++Detalni ustki yuzasiga ishlob berish.
+-Detalni ichki yuzasiga ishlob berish.
+-Detalni yon yuzasiga ishlob berish.
+
+#Jilvirlash mashinasining vazifasi?
+-Yumoloq shakildagi detal xosil qilish.
+-To’rtburchak shakildagi detal xosil qilish.
++Yuqori aniqlikda ishlob berish.
+
+#Jilvirlash mashinasi qanday detallarga ishlob beradi?
+-Yumoloq shakildagi detalga.
+-To’rtburchak shakildagi detalga
++Xamma javob tog’ri.
+
+#Parmalash  mashinasining vazifasi?
+-Yumoloq shakildagi detal xosil qilish.
+-To’rtburchak shakildagi detal xosil qilish.
++Teshiklarga ishlov berish.
+
+#Zenkofkalarning vazifasi?
++Faskalar ochish
+-Paz ochish
+-Teshish
+
+#Razvyortkalashning vazifasi?
+-Faskalar ochish
+-Paz ochish
++Teshiklarni kenggaytirish
